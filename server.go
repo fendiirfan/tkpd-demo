@@ -1,5 +1,5 @@
 package main
-// fendi irfan
+// fendi irfan amorokhman
 import (
   "net/http"
   "os"
